@@ -3,10 +3,6 @@
 
 using namespace std;
 
-#define fastio ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL)
-#define vll vector<long long int>
-#define forn(i,n) for(int i=0; i<n; i++)
-
 void solve()
 {
     int n;
@@ -17,8 +13,6 @@ void solve()
 
 int32_t main()
 {
-    fastio;
-    
     int t;
     cin >> t;
 
