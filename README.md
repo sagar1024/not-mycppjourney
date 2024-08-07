@@ -1,1 +1,1 @@
-My c++ self learning journey - tutorials, patterns questions, game development, and competitive programming.
+My c++ self learning journey. It contains tutorial code, patterns problems, games, and competitive programming questions.
